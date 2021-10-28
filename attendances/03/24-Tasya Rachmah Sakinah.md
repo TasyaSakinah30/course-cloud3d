@@ -7,7 +7,6 @@
 
 ## Jenis-jenis Instance
 1. Jenis shapes
-
     - Standard shapes
     - DenseIO shapes
     - GPU shapes
@@ -15,7 +14,7 @@
     - Optimized shapes
 
 2. Flexible shapes
-    - Flexible shapes
+    - Flexible shapes : sebuah templat yang dapat melakukan kustom sejumlah OCPU dan memori ketika melakukan launching atau mengubah VM.
     - OCPU ekuivalen dengan satu core fisik dengan multithreading simultan (hyper-threading)
     - Ketika Anda membuat VM menggunakan flexible shape, pilihan jumlah OCPU dan volume memori yang dibutuhkan dapat disesuaikan.
 
